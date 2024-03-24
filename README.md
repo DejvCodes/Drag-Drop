@@ -11,4 +11,4 @@
 <a href="https://drag-and-drop-dejvcodes.netlify.app/">Drag & Drop</a>
 
 ## License🔐
-[MIT License](LICENSE)
+[MIT License](LICENSE) 
